@@ -61,6 +61,7 @@ Classe	Descrição
 ## ⚙️ Como Compilar e Executar
 
 `bash
+
 javac -d bin src/exercicios_unidade1/*.java
 
 java -cp bin exercicios_unidade1.Main
