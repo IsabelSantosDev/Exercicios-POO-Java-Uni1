@@ -6,18 +6,31 @@ Este projeto contém a resolução da **Unidade 1**, onde foram criadas várias 
 ## 📂 Estrutura do Projeto
 
 Uni 1 - Introdução à Programação Orientada a Objetos/
+
 ├─ src/
+
 │ └─ exercicios_unidade1/
+
 │ ├─ Main.java
+
 │ ├─ Pessoa.java
+
 │ ├─ Circulo.java
+
 │ ├─ Livro.java
+
 │ ├─ Retangulo.java
+
 │ ├─ Animal.java
+
 │ ├─ Produto.java
+
 │ ├─ Triangulo.java
+
 │ ├─ ContaBancaria.java
+
 │ ├─ Carro.java
+
 │ └─ Funcionario.java
 └─ bin/ <-- arquivos compilados (.class)
 
@@ -49,6 +62,7 @@ Classe	Descrição
 
 `bash
 javac -d bin src/exercicios_unidade1/*.java
+
 java -cp bin exercicios_unidade1.Main
 
 ## 👩‍💻 Autor
